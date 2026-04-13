@@ -5,7 +5,7 @@
 #include <queue>
 #include <mutex>
 #include <algorithm>
-
+#include <atomic>
 #include "FIFO.hpp"
 
 // -------------------------------------------------------- ACQ Symbol Synchronization Class ------------------------------------------------ //
