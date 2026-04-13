@@ -1,0 +1,1 @@
+value = '((theta_1_0)-lkcap_link_1 - ssrate_session_0)'

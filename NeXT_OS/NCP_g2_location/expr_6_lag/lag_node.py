@@ -1,0 +1,1 @@
+value = 'node_6'

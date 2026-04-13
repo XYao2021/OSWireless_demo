@@ -1,0 +1,6 @@
+value = '-expr_1_lag*log(lkgain_link_0*objvar/lkitf_link_0 + 1)/log(2)'
+objvarkey ='objvar'
+lwrkey ='net_name_g2.lkpwr_lwr_default'
+uprkey ='net_name_g2.lkpwr_upr_default'
+lwr ='net_name_g2.lkpwr_lwr_default'
+pnl_sum ='pnl_coefficient'

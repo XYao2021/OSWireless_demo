@@ -1,0 +1,6 @@
+value = '-expr_1_lag*objvar + expr_1_lag*theta_0_0 - expr_2_lag*objvar + expr_2_lag*theta_1_0 - expr_3_lag*objvar + expr_3_lag*theta_2_0 + 1/theta_2_0 + 1/theta_1_0 + 1/theta_0_0'
+objvarkey ='objvar'
+lwrkey ='net_name_g2.ssrate_lwr_default'
+uprkey ='net_name_g2.ssrate_upr_default'
+lwr ='net_name_g2.ssrate_lwr_default'
+pnl_sum ='pnl_coefficient'

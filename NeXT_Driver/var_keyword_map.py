@@ -1,0 +1,2 @@
+pwr = 'phy'
+rate = 'tspt'

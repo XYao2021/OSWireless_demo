@@ -1,0 +1,6 @@
+value = '-expr_2_lag*objvar'
+objvarkey ='objvar'
+lwrkey ='net_name_g2.lkcap_lwr_default'
+uprkey ='net_name_g2.lkcap_upr_default'
+lwr ='net_name_g2.lkcap_lwr_default'
+pnl_sum ='pnl_coefficient'

@@ -1,0 +1,1 @@
+value = 'expr_1_lag*lkgain_link_0*lkpwr_link_0/(lkitf_link_0**2*(lkgain_link_0*lkpwr_link_0/lkitf_link_0 + 1)*log(2))'

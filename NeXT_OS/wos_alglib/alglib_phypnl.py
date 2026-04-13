@@ -1,0 +1,2 @@
+pnl = '(-lkgain00*lkpwr00*link_sngl_lbd/((lkitf00 + lknoise00)**2*(lkgain00*lkpwr00/(lkitf00 + lknoise00) + 1)*log(2)))*chngain00'
+keyword = ['lkgain00','lkpwr00','link_sngl_lbd','lkitf00','lknoise00','chngain00']
