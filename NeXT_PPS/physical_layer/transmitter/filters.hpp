@@ -1,6 +1,7 @@
 #include "fft.hpp"
 #include <mutex>
 #include "FIFO.hpp"
+#include <atomic>
 
 // University of Florida EEL6528
 // Tan F. Wong
