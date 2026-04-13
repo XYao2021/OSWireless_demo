@@ -1,6 +1,6 @@
 // The header for USRP operation threads
 # include "FIFO.hpp"
-
+# include <atomic>
 # include <vector>
 # include <fstream>
 # include <deque>
